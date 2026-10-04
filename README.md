@@ -132,25 +132,7 @@ class Pranathi:
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-[![Pranathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mragapranathi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mragapranathi&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🏅 Achievements & Highlights
 
