@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pranathi Mraga
+# 👋 Hi, I'm Mithinti Raga Pranathi 
 
 ### 🤖 AI/ML Engineer · Full-Stack Developer · Agentic AI Builder
 
